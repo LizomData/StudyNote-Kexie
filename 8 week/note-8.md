@@ -6,8 +6,8 @@
 
 ## 学习markdown   by https://markdown.com.cn/basic-syntax/escaping-characters.html
 
-### Markdown 标题语法  
-  
+### Markdown 标题语法
+
 要创建标题，在单词或短语前面添加井号 (#) 。# 的数量代表了标题的级别。例如，添加三个 # 表示创建一个三级标题(例如：### My Header)。   
 eg   
 \# Heading level 1     
