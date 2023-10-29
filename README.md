@@ -1,3 +1,3 @@
 # Note
-### Study notes
+### Study Notes
 
