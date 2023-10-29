@@ -6,10 +6,13 @@
 
 ## 学习markdown   by https://markdown.com.cn/basic-syntax/escaping-characters.html
 ### Markdown 标题语法  
+    
 要创建标题，在单词或短语前面添加井号 (#) 。# 的数量代表了标题的级别。例如，添加三个 # 表示创建一个三级标题(例如：### My Header)。   
 eg   
-\# Heading level 1   
+\# Heading level 1     
+
 ### Markdown 段落
+
 要创建段落，使用空白行将一行或多行文本进行分隔。
 ### Markdown 换行语法
 在一行的末尾添加两个或多个空格，然后按回车键,即可创建一个换行。
