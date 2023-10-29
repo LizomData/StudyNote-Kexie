@@ -21,6 +21,12 @@ eg
 I just love \**bold text\**.    
 I just love \**bold text\**.   
 Love\**is\**bold      
+#### 斜体  
+要用斜体显示文本，在单词或短语前后添加一个星号或下划线。要斜体突出单词的中间部分，在字母前后各添加一个星号，中间不要带空格。
+eg    
+Italicized text is the \*cat's meow\*.       
+Italicized text is the \_cat's meow\_.   
+A\*cat\*meow   
 ### Markdown 换行语法
 ### Markdown 换行语法
 ### Markdown 换行语法
