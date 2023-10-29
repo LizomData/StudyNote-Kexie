@@ -55,6 +55,10 @@ eg
 这是一个链接 \[Markdown语法\]\(https://markdown.com.cn)。  
 这是一个链接 [Markdown语法](https://markdown.com.cn)。  
 ### Markdown 转义字符语法
-要显示原本用于格式化 Markdown 文档的字符，在字符前面添加反斜杠字符 \ 。
-
+要显示原本用于格式化 Markdown 文档的字符，在字符前面添加反斜杠字符 \ 。   
+## 理解面向对象编程思想    
+理解对象概念
+## 了解并熟悉c#及unity  
+c#
+unity
 
