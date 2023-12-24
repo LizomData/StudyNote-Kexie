@@ -34,4 +34,6 @@
       - Conditions:设置条件变量，满足才进行动画切换  
       - Can Transition To Self:Any State中是否可以打断自身。(通过Any State进入的动画是否会同样被Any State打断)   
         Any State：在任何动画执行时，只要满足执行条件，便可以打断当前动画执行，进入目标动画。
-      - 可以设置多个条件，同时满足后进行动画切换  
+      - 可以设置多个条件，同时满足后进行动画切换
+  - 动画执行逻辑
+    1.Add Behaviour:创建 
