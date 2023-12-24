@@ -24,14 +24,4 @@
     3.通过设置Samples 设置采样率   
     4.通过Add Property 添加动画播放时物体的一些改变(参数变量，组件激活状态)
     5.在每一帧动画上面可以添加事件，在物体上挂写好要执行的函数的脚本后可以直接调用
-  - 动画制作
-    1.将animation拖进animator，进行不同动画的切换
-    2.Parameters:animator的变量，用与当作动画切换的条件
-    3.Layers:不同动画图层，图层之间可以覆盖，也可以叠加。  
-    4.Make Transition:动画之间的过渡线  
-      - Has Exit Time:上一个动画的退出时间，满足条件才会进行动画切换  
-      - Fixed Duration:动画叠加  
-      - Conditions:设置条件变量，满足才进行动画切换  
-      - Can Transition To Self:Any State中是否可以打断自身。(通过Any State进入的动画是否会同样被Any State打断)   
-        Any State：在任何动画执行时，只要满足执行条件，便可以打断当前动画执行，进入目标动画。
-      - 可以设置多个条件，同时满足后进行动画切换  
+  
