@@ -2,7 +2,7 @@
 ### Study Notes
 
 <div class="RepoCover" align="center">
-  <a href="#"><img style="width:600;height:675" src="http://47.98.177.117:8889/down/jozAzEqZNMXO"></a>
+  <a href="#"><img style="width:600;height:675" src="https://github.com/930837329/StudyNote-Kexie/blob/main/previewFix.jpg?raw=true"></a>
   <br>
   <a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?color=%2352b4d8&label=Genshin%20Impact%20teleport%20channel&logo=discord&style=for-the-badge"></a>
   <br>
